@@ -1,19 +1,17 @@
 *{
-    font-size: 28px;
+    font-size: 15px;
+}
+.form-group{
+    font-size:35px;
 }
 
-#mydiv{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4j8EKAHl7M3TbUFtQXT9i6EXOVgkmchYMQ&usqp=CAU);
-    border: 5px outset red;
-    padding-left: 50px;
-}
-
-#heading{
-    font-size: 50px;
-    text-align: center;
-}
 
 #btn{
     margin-right: 22px;
+    width:80px;
+    height:50px;
 }
 
+.card-body{
+    background-color:magenta;
+}
